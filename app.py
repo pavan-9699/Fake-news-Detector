@@ -93,5 +93,5 @@ def main():
     st.markdown("<footer>Made with ❤️ by Pavan | Logistic Regression + Streamlit</footer>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
-    train_model()
+    #train_model()
     main()
